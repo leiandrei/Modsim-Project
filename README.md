@@ -1,8 +1,9 @@
 ## Project Structure
-*   `src/`
-    *   `main.py`
-    *   `utils.py`
-*   `tests/`
-    *   `test_main.py`
+
+*   `data/`
+    *   `timeslots.csv`
+*   `notebooks/`
+    *   `analysis.ipynb`
+*   `.gitignore`
 *   `README.md`
-*   `LICENSE`
+
